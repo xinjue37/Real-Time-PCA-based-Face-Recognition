@@ -1,4 +1,4 @@
-# Undergraduate-Y3S3-PCA-based-Face-Recognition
+# Real Time PCA based Face Recognition
 Author: [Ng Zheng Jue](https://github.com/xinjue37/), [Heng Chia Ying](https://github.com/xinying100), Tan Hong Guan, [Ng Rui Qi](https://github.com/Ruiqi2002)
 
 * This is a project developed in undergraduate Year 3 - Semester 3
