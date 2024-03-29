@@ -18,4 +18,6 @@ Author: [Ng Zheng Jue](https://github.com/xinjue37/), [Heng Chia Ying](https://g
 ```
 
 ## Overall Experiment Design
-<img src="Image/Experiment_Design.jpg">
+<p align="center">
+<img src="Image/Experiment_Design.jpg" width="700">
+</p>
