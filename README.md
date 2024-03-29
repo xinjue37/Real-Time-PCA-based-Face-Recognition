@@ -2,7 +2,7 @@
 Author: [Ng Zheng Jue](https://github.com/xinjue37/), [Heng Chia Ying](https://github.com/xinying100), [Tan Hong Guan](https://github.com/tanhg1116), [Ng Rui Qi](https://github.com/Ruiqi2002)
 
 * This is a project developed in undergraduate Year 3 - Semester 3
-* This repository consists of code to perform real-time face recognition based on the dataset given in the '[Face_Image](https://github.com/xinjue37/Undergraduate-Y3S3-PCA-based-Face-Recognition/tree/main/Face_Image)' directory. This is done by
+* This repository consists of code to **perform real-time face recognition based on the dataset given** in the '[Face_Image](https://github.com/xinjue37/Undergraduate-Y3S3-PCA-based-Face-Recognition/tree/main/Face_Image)' directory. This is done by
   1) Detect the face using Cascaded Classifier
   2) Project the data into lower dimensions by Principal Components Analysis (PCA)
   3) Use KNN to recognize the face based on the training dataset in '[Face_Image](https://github.com/xinjue37/Undergraduate-Y3S3-PCA-based-Face-Recognition/tree/main/Face_Image)' directory
